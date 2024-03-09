@@ -23,10 +23,10 @@ Take a look at the live Dashboard by clicking [here](https://app.powerbi.com/vie
 -Data Loading, transforming and Loading
 - Data modeling
 - Creating calculated columns
-- creating measure using DAX language
-- creation of a button to clear all applied filters
+- Creating measure using DAX language
+- Creation of a button to clear all applied filters
 - Using divide function to prevent zero division errors
-- creating DAX Measures
+- Creating DAX Measures
 - Data validation techniques
 - Power BI services
 - Publishing reports to Power BI services
@@ -49,7 +49,7 @@ Take a look at the live Dashboard by clicking [here](https://app.powerbi.com/vie
 - Revenue
 - Average rating
 - Occupancy rate
-- successful bookings
+- Successful bookings
 - Cancellation rate
 - Occupancy trend by day
 - Bookings by room class
