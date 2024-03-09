@@ -10,7 +10,7 @@ The objective of this project is to be able to exploit all the data provided by 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMjBkN2RiOWUtYzExNC00OWVmLTk3NTctN2QxMDZmM2RlZDkwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Take a look at the live Dashboard by clicking [here](https://app.powerbi.com/view?r=eyJrIjoiMjBkN2RiOWUtYzExNC00OWVmLTk3NTctN2QxMDZmM2RlZDkwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Tech stacks
 
