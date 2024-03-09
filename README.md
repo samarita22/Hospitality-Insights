@@ -118,7 +118,7 @@ Column Description for fact_bookings:
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
-- Click [here]() to visualize the data modeling
+- Click [here](https://github.com/samarita22/Hospitality-Insights/blob/main/Data%20modeling.PNG) to visualize the data modeling
 
 
 ## Project Outcome
